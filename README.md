@@ -1,16 +1,15 @@
-## Hi there 👋
+### Oiee :)
 
-<!--
-**hdjtv15/hdjtv15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é hevelim dalia 
 
-Here are some ideas to get you started:
+- 💜 Estou estudando na [Alura](http://www.alura.com.br) 
+- 🎨 Estou me aprimorando na linguagem JavaScript 
+- 👩‍💻 Também participo do projeto programando talentos
+- 🤖 E estou desenvolvendo projetos com arduíno, envolvendo robótica e automação 
+*Utilizo esse espaço para minha organização e compartilhamento dos meu projetos* ✨
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Você pode entrar em contato comigo 📬
+[hevelimdalia@gmail.com](00001251984800sp@al.educacao.Sp.gov.br)
+
+![](https://media4.giphy.com/media/JIX9t2j0ZTN9S/giphy.webp?cid=790b7611va9lebc2uy0addxj3pgqddlscoyo7v4w2wxbgdzn&ep=v1_gifs_search&rid=giphy.webp&ct=g)
+
